@@ -1,0 +1,48 @@
+Pikachu...? (Mimikyu) (F) @ Focus Sash  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Hasty Nature  
+- Swords Dance  
+- Shadow Sneak  
+- Play Rough  
+- Shadow Claw  
+
+Snek (Serperior) (F) @ Meadow Plate  
+Ability: Contrary  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Leaf Storm  
+- Hidden Power [Fire]  
+- Dragon Pulse  
+- Glare  
+
+Xurkitree @ Psychium Z  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Hasty Nature  
+IVs: 0 Atk  
+- Hypnosis  
+- Tail Glow  
+- Thunderbolt  
+- Dazzling Gleam  
+
+Kyurem-Black  
+Ability: Teravolt  
+EVs: 252 SpA / 252 Spe  
+Hasty Nature  
+- Ice Beam  
+- Dragon Claw  
+- Fusion Bolt  
+- Rock Slide  
+
+Cloyster @ Focus Sash  
+Ability: Skill Link  
+EVs: 252 Atk / 252 Spe  
+- Shell Smash  
+- Icicle Spear  
+- Spike Cannon  
+- Refresh  
+
+More to come...
