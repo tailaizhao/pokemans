@@ -20,7 +20,7 @@ IVs: 0 Atk
 
 Xurkitree @ Psychium Z  
 Ability: Beast Boost  
-EVs: 252 SpA / 4 SpD / 252 Spe  
+EVs: 252 SpA / 4 SpD / 252 Spe (Take all EVs off SPA and place them on Defense for Buffalo Salandits)
 Hasty Nature  
 IVs: 0 Atk  
 - Hypnosis  
